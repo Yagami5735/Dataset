@@ -1,5 +1,4 @@
 country_name,admin1_name,admin2_name,latitude,longitude,aggregation,indicator,event_date,value
-#country,#adm1+name,#adm2+name,#geo+lat,#geo+lon,,#indicator+name,#date,#indicator+num
 Afghanistan,Kabul,,34.5527,69.3376,max,earthquake.date,1906-10-24T00:00:00,5.38
 Afghanistan,Kapisa,,34.9568,69.6258,max,earthquake.date,1906-10-24T00:00:00,5.4
 Afghanistan,Parwan,,34.9619,68.887,max,earthquake.date,1906-10-24T00:00:00,5.64

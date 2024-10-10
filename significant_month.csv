@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-06T10:51:08.410Z,34.0236667,-117.5923333,5.17,3.99,mw,183,12,0.01565,0.25,ci,ci40752807,2024-10-10T03:51:40.409Z,"5 km SE of Ontario, CA",earthquake,0.12,0.3,,6,reviewed,ci,ci
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-10T17:26:49.893Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-01T20:05:34.667Z,-19.2017,-172.9565,10,6.6,mww,113,23,2.865,0.81,us,us7000nhjw,2024-10-09T14:54:21.136Z,"124 km ESE of Neiafu, Tonga",earthquake,9.15,1.737,0.035,77,reviewed,us,us
+2024-09-29T09:47:33.220Z,36.911833333333,-121.65333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-10-10T04:20:08.017Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
+2024-09-26T19:19:28.811Z,-17.1899,66.5466,10,6.3,mww,101,29,3.949,0.83,us,us7000ngmr,2024-09-27T19:21:59.721Z,"Mauritius - Reunion region",earthquake,8.04,1.82,0.052,36,reviewed,us,us
+2024-09-26T11:05:20.170Z,48.580666666667,-123.24783333333,52.15,3.96,ml,75,62,0.08658,0.13,uw,uw62050041,2024-10-07T19:12:46.080Z,"12 km E of Saanichton, Canada",earthquake,0.2,0.3,0.18857222011063,168,reviewed,uw,uw
+2024-09-17T00:49:42.183Z,32.411,-102.057,6.1279,5.1,ml,24,38,0,0.1,tx,tx2024shcj,2024-10-09T00:59:56.731Z,"2024 North of Tarzan, Texas Earthquake",earthquake,0.39816164788025,1.1197002263205,0.2,36,reviewed,tx,tx
+2024-09-16T14:40:21.768Z,45.5663,26.2679,132.923,5.2,mww,164,19,0.239,0.95,us,us7000ne92,2024-10-10T20:01:41.580Z,"8 km N of Cașoca, Romania",earthquake,6.19,3.633,0.053,34,reviewed,us,us
+2024-09-16T11:36:34.522Z,17.1539,147.2254,31,6.3,mww,134,33,2.35,1.11,us,us7000ne84,2024-10-08T11:46:37.141Z,"266 km NE of Saipan, Northern Mariana Islands",earthquake,8.58,1.878,0.043,52,reviewed,us,us
+2024-09-15T22:22:48.323Z,51.5827,-130.6302,6.037,6.5,mww,173,40,0.793,0.6,us,us7000ne51,2024-10-08T17:17:31.290Z,"271 km WNW of Port McNeill, Canada",earthquake,3.98,2.853,0.025,150,reviewed,us,us
+2024-09-12T14:28:21.610Z,34.0565,-118.8126667,11.35,4.69,mw,145,101,0.03238,0.29,ci,ci40731623,2024-10-10T14:38:32.113Z,"6 km N of Malibu, CA",earthquake,0.23,0.34,,6,reviewed,ci,ci
+2024-09-11T16:46:05.054Z,-3.2871,146.4088,8,6.3,mww,145,79,1.562,1.21,us,us7000nd4f,2024-10-08T17:38:28.390Z,"168 km SW of Lorengau, Papua New Guinea",earthquake,7.41,1.799,0.047,43,reviewed,us,us

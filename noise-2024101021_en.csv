@@ -1,4 +1,4 @@
-Start date/time in UTC,Timezone,Duration (s),Observer ID,Latitude,Longitude,Mean volume (dBA),Mood,Could control noise exposure,Indoors,Emoji,Emoji descriptions,Nominated as noise refuge
+Start date/time in UTC,Timezone,Duration (s),Observer ID,Latitude,Longitude,Mean volume(dBA),Mood,Could control noise exposure,Indoors,Emoji,Emoji descriptions,Nominated as noise refuge
 2022-02-08 19:07:20,America/New_York,29,56,42.71516,-76.40451,42,2,false,true,🗣🤣,"speaking head in silhouette,rolling on the floor laughing",false
 2022-02-08 19:56:00,America/New_York,29,54,42.71489,-76.40509,39,1,true,true,🎶,multiple musical notes,false
 2022-02-08 20:46:02,America/New_York,29,55,42.38951,-71.14181,70,3,false,false,🚗🛣,"automobile,motorway",false
